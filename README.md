@@ -1,5 +1,9 @@
 # Gratonite API
 
+[![Project](https://img.shields.io/badge/project-Gratonite-6d28d9)](https://github.com/CoodayeA/Gratonite)
+[![Status](https://img.shields.io/badge/status-active-16a34a)](https://github.com/Gratonite-Labs/api)
+[![Docs](https://img.shields.io/badge/source%20of%20truth-main%20repo-2563eb)](https://github.com/CoodayeA/Gratonite)
+
 Backend API for Gratonite.
 
 This repo represents the backend slice of the Gratonite project: authentication, guilds, channels, messages, threads, voice, moderation, events, and realtime infrastructure.
